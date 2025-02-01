@@ -7,3 +7,9 @@ BEGIN
 END $$
 
 DELIMITER ;
+
+desc procedure;
+
+select * from procedure;
+
+select * from procedure;
