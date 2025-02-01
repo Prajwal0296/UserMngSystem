@@ -7,3 +7,5 @@ BEGIN
 END $$
 
 DELIMITER ;
+
+desc procedure;
